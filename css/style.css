@@ -1,0 +1,138 @@
+.banner-description {
+    margin-left: 876px;
+    padding-top: 216px;
+    text-align: right;
+    margin-right: 216px;
+}
+
+.banner {
+
+    width: 1600px;
+    height: 808px;
+    background-image: url(../images/banner/banner1.png);
+}
+   
+
+    
+    
+    
+ ul li{
+    list-style: none;
+    margin-bottom: 20px;
+ }
+
+ ul li:before{
+    content: '\2713';
+    display: inline-block;
+    color: #16D887;
+ }
+
+ .failure-image{
+    margin-top: 140px;
+    margin-left: 206px;
+    
+ }
+
+ .failure{
+    display:  flex;
+    gap: 105.22px;
+    
+ }
+
+ .failure-description{
+    margin-top:370px ;
+ }
+
+ .sector{
+   display: flex;
+   gap: 110px;
+   margin-left: 350px;
+   margin-top: 100px;
+ }
+
+ .plan-title{
+   margin-left: 710px;
+   margin-top: 150px;
+ }
+
+ .sector-1{
+   text-align: center;
+   
+   
+ }
+
+ .sector-2{
+   text-align: center;
+
+ }
+
+ .sector-3{
+   text-align: center;
+ }
+
+ .sector-4{
+   text-align: center;
+ }
+
+ .sector-title{
+  margin-top: 50px;
+ }
+
+ /* creat a positive image */
+ .positive-picture{
+   height:300px ;
+   width: 1140px;
+   border: 2px solid white;
+   border-radius: 8px;
+   margin: 135px 260px 130px 200px;
+   
+  background-image: linear-gradient(to bottom , rgba(255, 0, 0, 0.933),rgba(13, 0, 255, 0.234)   );
+  background-image: url("../images/watch.png");
+  background-blend-mode: color;
+  
+   
+ }
+
+ .positive-details{
+   margin-top: 60px;
+   margin-left: 64px;
+ }
+
+ .positive-advice{
+  width: 459px;
+  font-size: 40px;
+ }
+
+ #remember{
+  width: 160px;
+  height: 40px;
+  font-size: 20px;
+  color: red;
+  font-weight: 600;
+ }
+
+ .future{
+  width: 1600px;
+  height: 577px;
+  background-color: brown;
+ }
+ 
+ 
+ .future-plan{
+  display: flex;
+  gap: 331px;
+  margin-left: 230px;
+  padding-top: 130px;
+ }
+
+ .inline-tag{
+  display: block;
+  
+ }
+
+ .problem{
+  margin-bottom: 16px;
+ }
+ 
+  
+
